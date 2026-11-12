@@ -179,6 +179,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Evolu**](https://github.com/evoluhq/evolu) - Local-first platform with E2E encryption
 - [**ZamSync**](https://github.com/Etoile-Bleu/ZamSync) - Offline-first WAL sync engine in Rust for unreliable networks. HLC ordering, Version Vector deduplication, mTLS, ChaCha20-Poly1305 encryption at rest, static binary for ARM/IoT.
 - [**Offline-first Cache Sync**](https://github.com/cherrypick-agency/synchronize_cache) - Offline-first Flutter/Drift sync engine using an outbox, push/pull, and configurable conflict resolution.
+- [**OpenLFCP**](https://openlfcp.org) - Open protocol for local-first sharing of a piece of a document between apps: changes are end-to-end encrypted and signed on the device, and the relay server stores only ciphertext. TypeScript and Rust SDKs over Automerge, self-hostable server. Apache-2.0.
 
 ### P2P Protocols
 
